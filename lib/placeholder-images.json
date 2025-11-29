@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "tomatoes",
+      "description": "Fresh red tomatoes on the vine.",
+      "imageUrl": "https://images.unsplash.com/photo-1627989321675-cdf7a37de577?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0b21hdG9lcyUyMHZpbmV8ZW58MHx8fHwxNzU5NjU1OTE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tomatoes vine"
+    },
+    {
+      "id": "carrots",
+      "description": "A bunch of organic carrots.",
+      "imageUrl": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYXJyb3RzJTIwYnVuY2h8ZW58MHx8fHwxNzU5NjkyOTIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "carrots bunch"
+    },
+    {
+      "id": "potatoes",
+      "description": "Sack of freshly harvested potatoes.",
+      "imageUrl": "https://images.unsplash.com/photo-1621849227840-352730a38e94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwb3RhdG9lcyUyMHNhY2t8ZW58MHx8fHwxNzU5NjkyOTIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "potatoes sack"
+    },
+    {
+      "id": "lettuce",
+      "description": "Crisp green lettuce head.",
+      "imageUrl": "https://images.unsplash.com/photo-1623701795293-8a946b566c9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsZXR0dWNlJTIwaGVhZHxlbnwwfHx8fDE3NTk2OTA4NTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lettuce head"
+    },
+    {
+      "id": "wheat",
+      "description": "Golden wheat field, can be used for rice placeholder.",
+      "imageUrl": "https://images.unsplash.com/photo-1562956509-4e2fbef3afcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3aGVhdCUyMGZpZWxkfGVufDB8fHx8MTc1OTY0OTEwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wheat field"
+    },
+    {
+      "id": "mangoes",
+      "description": "Ripe and juicy mangoes.",
+      "imageUrl": "https://images.unsplash.com/photo-1734163075572-8948e799e42c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYW5nb2VzJTIwZnJ1aXR8ZW58MHx8fHwxNzU5NTc1MTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mangoes fruit"
+    },
+    {
+      "id": "onions",
+      "description": "A pile of red onions.",
+      "imageUrl": "https://images.unsplash.com/photo-1618512496248-a07fe83aa8cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyZWQlMjBvbmlvbnN8ZW58MHx8fHwxNzU5NjkyOTIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red onions"
+    },
+    {
+      "id": "sugarcane",
+      "description": "Stalks of sugarcane.",
+      "imageUrl": "https://images.unsplash.com/photo-1738501522719-9d980bc6647f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3VnYXJjYW5lJTIwc3RhbGtzfGVufDB8fHx8MTc1OTU3NTEyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sugarcane stalks"
+    },
+    {
+      "id": "profile-1",
+      "description": "Profile picture of a man.",
+      "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTk2NzcyNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "profile-2",
+      "description": "Profile picture of a woman.",
+      "imageUrl": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc1OTYyOTkwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    }
+  ]
+}
